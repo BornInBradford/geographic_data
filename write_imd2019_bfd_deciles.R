@@ -21,7 +21,6 @@ library(sfheaders)#conversion from/to sf objects
 
 # set working directory. all downloaded files will be saved here, and new csv created will be written here as well. 
 setwd("your/file/path")
-setwd("U:/Born In Bradford/Data and Research team/Aidan/Github/Bradford IMD")
 
 # Download IMD data
 # link to imd data: https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices 
