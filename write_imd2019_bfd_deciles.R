@@ -24,6 +24,7 @@ setwd("your/file/path")
 
 # Download IMD data
 # link to imd data: https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices 
+# In the 'Data' tab, click 'CSV' (bottom right)
 # then read csv
 imd2019_dclg_data <- read.csv("imd2019lsoa.csv")
 
